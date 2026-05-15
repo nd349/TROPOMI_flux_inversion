@@ -1,0 +1,28 @@
+sector,emissions (Tg/year),category
+emi_ch4_1A_Combustion_Mobile,0.000475304,Combustion
+emi_ch4_1A_Combustion_Stationary,0.00125262,Combustion
+emi_ch4_1B1a_Abandoned_Coal,0,Coal
+emi_ch4_1B1a_Surface_Coal,0,Coal
+emi_ch4_1B1a_Underground_Coal,0,Coal
+emi_ch4_1B2a_Petroleum_Systems_Exploration,0.005008964,O&g
+emi_ch4_1B2a_Petroleum_Systems_Production,0.396293456,O&g
+emi_ch4_1B2a_Petroleum_Systems_Refining,0.000450447,O&g
+emi_ch4_1B2a_Petroleum_Systems_Transport,0.000777171,O&g
+emi_ch4_1B2ab_Abandoned_Oil_Gas,0.024436,O&g
+emi_ch4_1B2b_Natural_Gas_Distribution,0.001665222,O&g
+emi_ch4_1B2b_Natural_Gas_Exploration,0.000653327,O&g
+emi_ch4_1B2b_Natural_Gas_Processing,0.081787909,O&g
+emi_ch4_1B2b_Natural_Gas_Production,0.363750651,O&g
+emi_ch4_1B2b_Natural_Gas_TransmissionStorage,0.054228714,O&g
+emi_ch4_2B8_Industry_Petrochemical,0,
+emi_ch4_2C2_Industry_Ferroalloy,0,
+emi_ch4_3A_Enteric_Fermentation,0.096069555,Livestock & Agriculture
+emi_ch4_3B_Manure_Management,0.026583028,Livestock & Agriculture
+emi_ch4_3C_Rice_Cultivation,0,Livestock & Agriculture
+emi_ch4_3F_Field_Burning,2.08E-05,Livestock & Agriculture
+emi_ch4_5A1_Landfills_Industrial,2.36E-05,Landfills & Wastewater
+emi_ch4_5A1_Landfills_MSW,0.022716224,Landfills & Wastewater
+emi_ch4_5B1_Composting,5.81E-05,Landfills & Wastewater
+emi_ch4_5D_Wastewater_Treatment_Domestic,0.000973062,Landfills & Wastewater
+emi_ch4_5D_Wastewater_Treatment_Industrial,9.50E-07,Landfills & Wastewater
+emi_ch4_Supp_1B2b_PostMeter,0.004087501,O&g
